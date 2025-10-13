@@ -318,6 +318,16 @@
       "min_fw": "5.05+",
       "title_id": "DreamPatch",
     "cover_url": "https://lizanjadh.github.io/DATOS_DREAMPATCH/DREAN.jpg"
+    },
+    "https://lp.vikingfile.com/download/SMEFL6iwj8/EP0101-CUSA18740_00-PES2021000000000-A0100-V0108.pkg": {
+      "region": "EUR",
+      "name": "Juego Base Dream Patch",
+      "size": 7198389312,
+      "version": "1.00",
+      "release": "2025",
+      "min_fw": "5.05+",
+      "title_id": "DreamPatch",
+    "cover_url": "https://lizanjadh.github.io/DATOS_DREAMPATCH/DREAN.jpg"
 
 	}     
   }
