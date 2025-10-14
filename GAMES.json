@@ -230,7 +230,7 @@
     "cover_url": "https://lizanjadh.github.io/DATOS_DREAMPATCH/DREAN.jpg"
      },
     "https://us1.akirabox.com/uploads/users/2WVGrQZkzkx7/coftGfszbFpH25dK1de-DreamPatch_EditMod.cpk?access=QZhJHZ6t2ayZXYwQGezdWM4E3M5I3Z2hGOnFTb": {
-      "region": "no dispnible",
+      "region": "EUR",
       "name": "Estadios_2",
       "size": 572084272,
       "version": "1.00",
@@ -333,6 +333,16 @@
       "region": "EUR",
       "name": "Scoreboard_1",
       "size": 25861168,
+      "version": "1.00",
+      "release": "2025",
+      "min_fw": "5.05+",
+      "title_id": "DreamPatch",
+    "cover_url": "https://lizanjadh.github.io/DATOS_DREAMPATCH/DREAN.jpg"
+    },
+    "https://us1.akirabox.com/uploads/users/2WVGrQZkzkx7/coZl0V1vvJusFYDmlde-DreamPatch_Uni.cpk?access=QMhdHZotWNyJTYsRWYvRHNsFTY2I3duB3NndXb": {
+      "region": "EUR",
+      "name": "Uni",
+      "size": 3264167255,
       "version": "1.00",
       "release": "2025",
       "min_fw": "5.05+",
